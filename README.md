@@ -1,4 +1,5 @@
-# Live website link : https://freelancerifaz.github.io/hard-rock-api-assignment/
+# Resume Drive Link : https://drive.google.com/file/d/1tTgnJOqapxgjETIjJMTAT3s0RixQS0tl/view?usp=sharing
+# Live Website Link : https://freelancerifaz.github.io/hard-rock-api-assignment/
 
 # Home Page
 
