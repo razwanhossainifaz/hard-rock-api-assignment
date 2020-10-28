@@ -1,3 +1,3 @@
-# hard-rock-solution
-api link: https://api.lyrics.ovh/suggest/summer
-# hard-rock-assignment
+# Home Page
+
+<img src = "img/Home-read-me.jpg">
